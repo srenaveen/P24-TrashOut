@@ -1,1 +1,2 @@
-# P24-TrashOut
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
